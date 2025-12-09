@@ -1,12 +1,13 @@
 # Python Final Project: Pokemon Data Analysis
 
 ## Project Overview
-This project demonstrates data processing and analysis techniques using Python tools learned throughout the semester. The analysis focuses on analyzing Pokemon across Generation 1-6 where we incorporate data cleaning, merging, classes, and visualization.
+This project demonstrates data processing and analysis techniques using Python tools learned throughout the semester. The analysis focuses on examining Pokémon across Generations 1-6 and comparing their total base stats. The project incorporates data cleaning, merging, classes, and visualization.  
 
 ## Requirements
 - Python 3.7+
 - pandas
 - matplotlib
+- plotly.express
 - numpy
 - jupyter (for local execution)
 
@@ -27,6 +28,10 @@ This project demonstrates data processing and analysis techniques using Python t
 3. Launch Jupyter Notebook:
    ```bash
    jupyter notebook notebook.ipynb
+   ```
+4. Dataset
+   ```bash
+   https://www.kaggle.com/datasets/abcsds/pokemon
    ```
 
 ### Google Colab Execution

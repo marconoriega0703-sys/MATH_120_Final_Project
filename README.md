@@ -1,7 +1,7 @@
 # Python Final Project: Pokemon Data Analysis
 
 ## Project Overview
-This project demonstrates data processing and analysis techniques using Python tools learned throughout the semester. The analysis focuses on sales data, incorporating data cleaning, merging, statistical analysis, and visualization.
+This project demonstrates data processing and analysis techniques using Python tools learned throughout the semester. The analysis focuses on analyzing Pokemon across Generation 1-6 where we incorporate data cleaning, merging, classes, and visualization.
 
 ## Project Structure
 ```

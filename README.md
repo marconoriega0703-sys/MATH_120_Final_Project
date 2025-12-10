@@ -35,7 +35,7 @@ This project demonstrates data processing and analysis techniques using Python t
    ```
 
 ### Google Colab Execution
-1. Open [Google Colab](https://colab.research.google.com/drive/1KdnYcrz-euXFmSH92iDFiBfQOhkOrbwu?authuser=1#scrollTo=WnLOytBFRqZt)
+1. Open [Google Colab](https://colab.research.google.com/drive/1tngsHpeF5qhY7-uLwbw1ePAP2czvI1ZJ)
 2. Upload the `notebook.ipynb` file or connect to your GitHub repository
 3. Run the first cell to automatically set up the environment
 

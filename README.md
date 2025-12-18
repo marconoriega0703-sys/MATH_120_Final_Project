@@ -65,7 +65,6 @@ The raw Pokémon dataset consists of 721 unique Pokémon. This dataset includes 
 - Data visualization
 - Classes and Function creation
 - Environment compatibility (local vs. cloud)
-- 
 ## Usage
 Run all cells in `MATH_120_Final_Project_Final_Draft.ipynb` sequentially. The notebook will:
 1. Set up the environment automatically

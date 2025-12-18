@@ -10,7 +10,8 @@ python_final_project/
 │   └── Pokemon.csv           # Raw pokemon dataset
 ├── data_cleaned/                    # Cleaned data files
 │   └── cleaned_pokemon.csv  # (Can be downloaded by running the download cell)
-├── MATH_120_Final_Project_Final_Draft.ipynb          # Main analysis notebook
+├── notebooks/                    # Cleaned data files
+│   └── MATH_120_Final_Project_Final_Draft.ipynb   
 └── README.md               # This file
 
 ## Requirements

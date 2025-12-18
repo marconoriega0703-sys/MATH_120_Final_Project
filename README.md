@@ -1,7 +1,7 @@
 # Python Final Project: Pokemon Data Analysis
 
 ## Project Overview
-This project demonstrates data processing and analysis techniques using Python tools learned throughout the semester. The analysis focuses on examining Pokémon across Generations 1-6 and comparing their total base stats. The project incorporates data cleaning, merging, classes, and visualization.  
+This project demonstrates data processing and analysis techniques using Python tools learned throughout the semester. The notebook focuses on examining Pokémon across Generations 1-6 and comparing their total base stats. The project incorporates data cleaning, merging, classes, and visualization.  
 
 ## Project Structure
 ```
@@ -45,7 +45,7 @@ python_final_project/
    ```
 
 ### Google Colab Execution
-1. Open [Google Colab](https://colab.research.google.com/drive/1tngsHpeF5qhY7-uLwbw1ePAP2czvI1ZJ)
+1. Open [Google Colab](https://colab.research.google.com/drive/1Bl55AAWnxjGPW5tzQx1MbRHMXNGy6Rsy#scrollTo=a7c00e1d)
 2. Upload the `notebook.ipynb` file or connect to your GitHub repository
 3. Run the first cell to automatically set up the environment
 

@@ -16,9 +16,7 @@ python_final_project/
 ## Requirements
 - Python 3.7+
 - pandas
-- matplotlib
 - plotly.express
-- numpy
 - jupyter (for local execution)
 
 ## Installation and Setup
@@ -37,7 +35,7 @@ python_final_project/
 
 3. Launch Jupyter Notebook:
    ```bash
-   jupyter notebook notebook.ipynb
+   jupyter notebook MATH_120_Final_Project_Final_Draft.ipynb
    ```
 4. Dataset
    ```bash
@@ -46,11 +44,11 @@ python_final_project/
 
 ### Google Colab Execution
 1. Open [Google Colab](https://colab.research.google.com/drive/1Bl55AAWnxjGPW5tzQx1MbRHMXNGy6Rsy#scrollTo=a7c00e1d)
-2. Upload the `notebook.ipynb` file or connect to your GitHub repository
+2. Upload the `MATH_120_Final_Project_Final_Draft.ipynb` file or connect to your GitHub repository
 3. Run the first cell to automatically set up the environment
 
 ## Usage
-Run all cells in `notebook.ipynb` sequentially. The notebook will:
+Run all cells in `MATH_120_Final_Project_Final_Draft.ipynb` sequentially. The notebook will:
 1. Set up the environment automatically
 2. Load and clean the raw data
 3. Perform statistical analysis

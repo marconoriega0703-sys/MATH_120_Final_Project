@@ -32,7 +32,7 @@ python_final_project/
 
 2. Install required packages (if needed):
    ```bash
-   pip install pandas matplotlib numpy jupyter
+   pip install pandas plotly.express jupyter
    ```
 
 3. Launch Jupyter Notebook:

@@ -72,7 +72,7 @@ Run all cells in `MATH_120_Final_Project_Final_Draft.ipynb` sequentially. The no
 2. Load and clean the raw data
 3. Perform statistical analysis
 4. Generate visualizations
-5. Save cleaned data to the `data_cleaned/` folder
+5. Saves cleaned data to the user's downloads
 
 ## Author
 [Marco Noriega]  

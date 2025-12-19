@@ -11,7 +11,8 @@ python_final_project/
 ├── data_cleaned/                    # Cleaned data files
 │   └── cleaned_pokemon.csv  # (Can be downloaded by running the download cell)
 ├── notebooks/                    # Cleaned data files
-│   └── MATH_120_Final_Project_Final_Draft.ipynb   
+│   └── MATH_120_Final_Project_Final_Draft.ipynb
+├── data_raw/    
 └── README.md               # This file
 
 ## Requirements
@@ -71,7 +72,7 @@ Run all cells in `MATH_120_Final_Project_Final_Draft.ipynb` sequentially. The no
 2. Load and clean the raw data
 3. Perform statistical analysis
 4. Generate visualizations
-5. Save processed data to the `data/` folder
+5. Save processed data to the `data_cleaned/` folder
 
 ## Author
 [Marco Noriega]  

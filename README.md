@@ -25,6 +25,7 @@ python_final_project/
 ## Installation and Setup
 
 ### Local Execution
+   ```
 1. Clone this repository:
    ```bash
    git clone https://github.com/marconoriega0703-sys/MATH_120_Final_Project.git

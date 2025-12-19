@@ -14,7 +14,7 @@ python_final_project/
 │   └── MATH_120_Final_Project_Final_Draft.ipynb
 ├── MATH 120 Final Written Draft.pdf    
 └── README.md               # This file
-
+```
 ## Requirements
 - Python 3.7+
 - pandas
@@ -25,7 +25,6 @@ python_final_project/
 ## Installation and Setup
 
 ### Local Execution
-   ```
 1. Clone this repository:
    ```bash
    git clone https://github.com/marconoriega0703-sys/MATH_120_Final_Project.git

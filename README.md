@@ -46,7 +46,7 @@ python_final_project/
    ```
 
 ### Google Colab Execution
-1. Open [Google Colab](https://colab.research.google.com/drive/1Bl55AAWnxjGPW5tzQx1MbRHMXNGy6Rsy#scrollTo=yizT_ZZw3w4C)
+1. Open [Google Colab](https://colab.research.google.com/drive/1Bl55AAWnxjGPW5tzQx1MbRHMXNGy6Rsy#scrollTo=KyUNJTHNevQX)
 2. Upload the `MATH_120_Final_Project_Final_Draft.ipynb` file or connect to your GitHub repository
 3. Run the first cell to automatically set up the environment
 

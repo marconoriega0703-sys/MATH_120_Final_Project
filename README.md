@@ -57,6 +57,7 @@ The raw Pokémon dataset consists of 721 unique Pokémon. This dataset includes 
 - Data loading and cleaning
 - Data merging operations
 - Data visualization with plotly.express
+- Custom column analysis
 
 ## Key Learning Objectives Demonstrated
 - File I/O operations with pandas
